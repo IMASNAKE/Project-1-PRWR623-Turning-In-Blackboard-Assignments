@@ -21,3 +21,6 @@ they have.
 File Explorer: It is the built-in file management application in Windows used to view, organize, and manage files, folders,
 and drives on a computer This is where blackboard takes you when you are trying to upload a file. We will be mostly focused
 on the downloads folder as this is where most of the documents you are going to submit will be.
+
+Upload: To upload a file simply means sending a digital copy of a file from your personal device to a server where it is then 
+stored and can be viewed. This is how you are sending your assignments to your professor. 
