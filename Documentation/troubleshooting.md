@@ -4,6 +4,11 @@ Here are some frequently asked questions and the answers to them!
 
 - "How Do I know if my file is the correct type?"
   
+  To check for this open File explorer on your computer. Go to
+  downloads. Right-click on your desired file. Click on the "Properties"
+  button that will show up. It will then open a new small window with all
+  of the file information and you will see "Type of File:" followed by the file
+  type. Remember that most submissions will require .pdf or .docx files!
 
 - "What if I only need to submit a text response?"
   
