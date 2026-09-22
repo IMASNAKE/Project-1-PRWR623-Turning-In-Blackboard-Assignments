@@ -26,3 +26,5 @@ Questions that would be answered are:
 
 ### Documentation
 [Technical Overview](https://github.com/IMASNAKE/Project-1-PRWR623-Turning-In-Blackboard-Assignments/blob/main/Documentation/overview.md)
+[Procedure](https://github.com/IMASNAKE/Project-1-PRWR623-Turning-In-Blackboard-Assignments/blob/main/Documentation/procedure.md)
+[Troubleshooting](https://github.com/IMASNAKE/Project-1-PRWR623-Turning-In-Blackboard-Assignments/blob/main/Documentation/troubleshooting.md)
