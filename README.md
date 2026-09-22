@@ -19,10 +19,10 @@ implement a step-by-step procedure that shows students how to:
 This guide will also provide troubleshooting help to further clarify any confusion or errors that a student might make when submitting.
 Questions that would be answered are:
 
-- “What if my file won't upload?"
+- “How Do I know if my file is the correct type?"
 - "What if I submitted the wrong file?"
-- "How do I know my professor received it?"
-- "What if Canvas says my assignment is missing?"
+- "What if I only need to submit a text response?"
+- "What if my file won't upload?"
 
 ### Documentation
 [Technical Overview](https://github.com/IMASNAKE/Project-1-PRWR623-Turning-In-Blackboard-Assignments/blob/main/Documentation/overview.md)
