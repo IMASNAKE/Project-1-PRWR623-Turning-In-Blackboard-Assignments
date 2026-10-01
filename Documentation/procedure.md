@@ -3,6 +3,7 @@
 **Follow the steps below in order to submit an assignment!**
 
 1. Open the course that you wish to submit the assignment in.
+![Step 1](Images%20Folder/Step1.PNG)
 2. Go over to the gradebook tab.
 3. Click on the desired assignment.
 4. Then go to view instructions.
